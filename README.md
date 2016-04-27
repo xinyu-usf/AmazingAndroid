@@ -1,4 +1,4 @@
-# AmazingAndroid
+# Amazing Android
 ## Study Resources:
 * https://guides.codepath.com/android
 
