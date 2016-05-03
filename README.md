@@ -12,3 +12,6 @@
 * Official Icons: https://design.google.com/icons/
 * https://icons8.com/
 * http://www.iconarchive.com/
+
+## Articles:
+* Frame Animations in Android: https://www.bignerdranch.com/blog/frame-animations-in-android/
