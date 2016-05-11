@@ -16,3 +16,6 @@
 ## Articles:
 * Frame Animations in Android: https://www.bignerdranch.com/blog/frame-animations-in-android/
 * Flux Architecture on Android: https://github.com/lgvalle/android-flux-todo-app
+
+## Projects & Libraries:
+* CircleProgress, DonutProgress, ArcProgress: https://github.com/lzyzsd/CircleProgress
