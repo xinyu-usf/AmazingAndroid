@@ -9,7 +9,9 @@
 * http://www.android-app-patterns.com/
 
 ## Artwork Resources:
-* Official Icons: https://design.google.com/icons/
+* Material Design Icons: 
+  * https://design.google.com/icons/
+  * https://github.com/google/material-design-icons
 * https://icons8.com/
 * http://www.iconarchive.com/
 
