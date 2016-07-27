@@ -5,9 +5,6 @@
 * https://guides.codepath.com/android
 * http://www.vogella.com/tutorials/android.html
 
-## Design Resources:
-* http://www.android-app-patterns.com/
-
 ## Artwork Resources:
 * Material Design Icons: 
   * https://design.google.com/icons/
@@ -20,4 +17,7 @@
 * Flux Architecture on Android: https://github.com/lgvalle/android-flux-todo-app
 
 ## Projects & Libraries:
+* Google's:
+  * Ringdroid: https://github.com/google/ringdroid 
 * CircleProgress, DonutProgress, ArcProgress: https://github.com/lzyzsd/CircleProgress
+* DashClock - a replacement lock screen and home screen clock widget for Android 4.2+: https://github.com/romannurik/dashclock/ 
