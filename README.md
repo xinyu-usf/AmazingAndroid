@@ -9,8 +9,12 @@
 * Material Design Icons: 
   * https://design.google.com/icons/
   * https://github.com/google/material-design-icons
-* https://icons8.com/
-* http://www.iconarchive.com/
+* Icons: 
+  * https://icons8.com/
+  * http://www.iconarchive.com/
+* Colors:
+  * Material Design Colors: https://material.google.com/style/color.html
+  * Crayon Colors: https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 
 ## Articles:
 * Frame Animations in Android: https://www.bignerdranch.com/blog/frame-animations-in-android/
@@ -19,5 +23,6 @@
 ## Projects & Libraries:
 * Google's:
   * Ringdroid: https://github.com/google/ringdroid 
+  * AlarmClock: https://github.com/android/platform_packages_apps_alarmclock
 * CircleProgress, DonutProgress, ArcProgress: https://github.com/lzyzsd/CircleProgress
 * DashClock - a replacement lock screen and home screen clock widget for Android 4.2+: https://github.com/romannurik/dashclock/ 
