@@ -17,6 +17,9 @@
   * Crayon Colors: https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 
 ## Articles:
+* Start Screen:
+  * Splash Screens the Right Way: https://www.bignerdranch.com/blog/splash-screens-the-right-way/
+  * Avoiding cold starts on Android: http://saulmm.github.io/avoding-android-cold-starts
 * Frame Animations in Android: https://www.bignerdranch.com/blog/frame-animations-in-android/
 * Flux Architecture on Android: https://github.com/lgvalle/android-flux-todo-app
 
