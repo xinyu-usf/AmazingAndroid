@@ -29,5 +29,6 @@
   * AlarmClock: https://github.com/android/platform_packages_apps_alarmclock
 * CircleProgress, DonutProgress, ArcProgress: https://github.com/lzyzsd/CircleProgress
 * DashClock - a replacement lock screen and home screen clock widget for Android 4.2+: https://github.com/romannurik/dashclock/ 
+
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
