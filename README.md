@@ -26,6 +26,8 @@
   * Android: Looper, Handler, HandlerThread: https://blog.nikitaog.me/2014/10/11/android-looper-handler-handlerthread-i/
   * Handler vs AsyncTask vs Thread: http://stackoverflow.com/questions/6964011/handler-vs-asynctask-vs-thread
   * 8 ways to do asynchronous processing in Android and counting: https://medium.com/android-news/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e#.b2bbj4n2t
+* RxAndroid:
+  * RxAndroid Basics: Part1: https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.eovtle5vx  Part2: https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.f4o64ldro
 
 ## Projects & Libraries:
 * Google's:
