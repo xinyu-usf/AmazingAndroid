@@ -28,6 +28,7 @@
   * 8 ways to do asynchronous processing in Android and counting: https://medium.com/android-news/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e#.b2bbj4n2t
 * RxAndroid:
   * RxAndroid Basics: Part1: https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.eovtle5vx  Part2: https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.f4o64ldro
+* Performance Tips: https://developer.android.com/training/articles/perf-tips.html
 
 ## Projects & Libraries:
 * Google's:
