@@ -36,6 +36,7 @@
 * Google's:
   * Ringdroid: https://github.com/google/ringdroid 
   * AlarmClock: https://github.com/android/platform_packages_apps_alarmclock
+  * Reactive Programming for Android: https://github.com/google/agera
 * CircleProgress, DonutProgress, ArcProgress: https://github.com/lzyzsd/CircleProgress
 * DashClock - a replacement lock screen and home screen clock widget for Android 4.2+: https://github.com/romannurik/dashclock/ 
 * List of Android UI/UX Libraries: https://github.com/wasabeef/awesome-android-ui
