@@ -32,7 +32,6 @@
   * Performance Tips: https://developer.android.com/training/articles/perf-tips.html
   * Android memory and performance optimization:  http://www.vogella.com/tutorials/AndroidApplicationOptimization/article.html
 * A Deep Dive Into Location: http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
-* Google Maps Android API v2: https://developers.google.com/maps/documentation/android-api/
 
 ## Projects & Libraries:
 * Google's:
