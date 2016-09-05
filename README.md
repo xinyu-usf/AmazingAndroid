@@ -4,6 +4,7 @@
 * Official Vocabulary Glossary: https://developers.google.com/android/for-all/vocab-words/
 * https://guides.codepath.com/android
 * http://www.vogella.com/tutorials/android.html
+* Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
 
 ## Artwork Resources:
 * Material Design Icons: 
