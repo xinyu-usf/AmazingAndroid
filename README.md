@@ -5,6 +5,7 @@
 * Android Open Source Project: http://source.android.com/
 * https://guides.codepath.com/android
 * http://www.vogella.com/tutorials/android.html
+* http://www.mkyong.com/tutorials/android-tutorial/
 * Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
 
 ## Artwork Resources:
