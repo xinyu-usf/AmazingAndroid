@@ -2,6 +2,7 @@
 ## Study Resources:
 * Official Training: http://developer.android.com/training/index.html
 * Official Vocabulary Glossary: https://developers.google.com/android/for-all/vocab-words/
+* Android Open Source Project: http://source.android.com/
 * https://guides.codepath.com/android
 * http://www.vogella.com/tutorials/android.html
 * Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
