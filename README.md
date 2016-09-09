@@ -15,6 +15,7 @@
 * Icons: 
   * https://icons8.com/
   * http://www.iconarchive.com/
+  * iconfont (Chinese): http://www.iconfont.cn/collections?personal=1
 * Colors:
   * Material Design Colors: https://material.google.com/style/color.html
   * Crayon Colors: https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
