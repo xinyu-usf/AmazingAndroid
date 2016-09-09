@@ -42,15 +42,14 @@
   * Android memory and performance optimization:  http://www.vogella.com/tutorials/AndroidApplicationOptimization/article.html
 * A Deep Dive Into Location: http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
 
-## Projects & Libraries:
+## Code & Libraries & Projects:
 * Google's:
   * Ringdroid: https://github.com/google/ringdroid 
   * AlarmClock: https://github.com/android/platform_packages_apps_alarmclock
   * Reactive Programming for Android: https://github.com/google/agera
-* CircleProgress, DonutProgress, ArcProgress: https://github.com/lzyzsd/CircleProgress
-* DashClock - a replacement lock screen and home screen clock widget for Android 4.2+: https://github.com/romannurik/dashclock/ 
 * List of Android UI/UX Libraries: https://github.com/wasabeef/awesome-android-ui
 * Facebook React Native: http://facebook.github.io/react-native/
+* UtilCode: https://github.com/Blankj/AndroidUtilCode
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
