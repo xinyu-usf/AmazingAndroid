@@ -53,3 +53,6 @@
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
+
+## Tools:
+* mp4 to gif: http://ezgif.com/video-to-gif
