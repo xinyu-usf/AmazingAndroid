@@ -7,6 +7,7 @@
 * http://www.vogella.com/tutorials/android.html
 * http://www.mkyong.com/tutorials/android-tutorial/
 * Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
+* Useful Java links: https://github.com/Vedenin/useful-java-links
 
 ## Artwork Resources:
 * Material Design Icons: 
