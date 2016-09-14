@@ -8,6 +8,7 @@
 * http://www.mkyong.com/tutorials/android-tutorial/
 * Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
 * Useful Java links: https://github.com/Vedenin/useful-java-links
+* Google Style Guides: https://github.com/google/styleguide
 
 ## Artwork Resources:
 * Material Design Icons: 
