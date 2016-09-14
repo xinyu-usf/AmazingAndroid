@@ -51,6 +51,7 @@
   * Ringdroid: https://github.com/google/ringdroid 
   * AlarmClock: https://github.com/android/platform_packages_apps_alarmclock
   * Reactive Programming for Android: https://github.com/google/agera
+  * CameraView: https://github.com/google/cameraview
 * List of Android UI/UX Libraries: https://github.com/wasabeef/awesome-android-ui
 * Facebook React Native: http://facebook.github.io/react-native/
 * UtilCode: https://github.com/Blankj/AndroidUtilCode
