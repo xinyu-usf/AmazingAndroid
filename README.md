@@ -55,7 +55,9 @@
 * List of Android UI/UX Libraries: https://github.com/wasabeef/awesome-android-ui
 * Facebook React Native: http://facebook.github.io/react-native/
 * UtilCode: https://github.com/Blankj/AndroidUtilCode
-* An HTTP & HTTP/2 client for Android and Java applications: https://github.com/square/okhttp
+* Square's:
+  * An HTTP & HTTP/2 client for Android and Java applications: https://github.com/square/okhttp
+  * A powerful image downloading and caching library for Android: https://github.com/square/picasso
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
