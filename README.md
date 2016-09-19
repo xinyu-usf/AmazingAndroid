@@ -58,6 +58,7 @@
 * Square's:
   * An HTTP & HTTP/2 client for Android and Java applications: https://github.com/square/okhttp
   * A powerful image downloading and caching library for Android: https://github.com/square/picasso
+  * A modern JSON library for Android and Java: https://github.com/square/moshi
 * Onboarding View: https://github.com/codemybrainsout/ahoy-onboarding
 
 ## Deploy:
