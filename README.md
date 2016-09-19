@@ -59,6 +59,7 @@
   * An HTTP & HTTP/2 client for Android and Java applications: https://github.com/square/okhttp
   * A powerful image downloading and caching library for Android: https://github.com/square/picasso
   * A modern JSON library for Android and Java: https://github.com/square/moshi
+  * Standalone Android widget for picking a single date from a calendar view: https://github.com/square/android-times-square
 * Onboarding View: https://github.com/codemybrainsout/ahoy-onboarding
 
 ## Deploy:
