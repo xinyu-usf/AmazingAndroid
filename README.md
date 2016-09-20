@@ -61,6 +61,8 @@
   * A modern JSON library for Android and Java: https://github.com/square/moshi
   * Standalone Android widget for picking a single date from a calendar view: https://github.com/square/android-times-square
 * Onboarding View: https://github.com/codemybrainsout/ahoy-onboarding
+* Convert audio files inside your Android app: https://github.com/adrielcafe/AndroidAudioConverter
+* Custom fonts in Android the easy way: https://github.com/chrisjenx/Calligraphy
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
