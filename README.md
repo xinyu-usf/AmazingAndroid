@@ -57,12 +57,14 @@
 * UtilCode: https://github.com/Blankj/AndroidUtilCode
 * Square's:
   * An HTTP & HTTP/2 client for Android and Java applications: https://github.com/square/okhttp
+  * Type-safe HTTP client for Android and Java: https://github.com/square/retrofit
   * A powerful image downloading and caching library for Android: https://github.com/square/picasso
   * A modern JSON library for Android and Java: https://github.com/square/moshi
   * Standalone Android widget for picking a single date from a calendar view: https://github.com/square/android-times-square
 * Onboarding View: https://github.com/codemybrainsout/ahoy-onboarding
 * Convert audio files inside your Android app: https://github.com/adrielcafe/AndroidAudioConverter
 * Custom fonts in Android the easy way: https://github.com/chrisjenx/Calligraphy
+* A powerful Android chart view / graph view library: https://github.com/PhilJay/MPAndroidChart
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
