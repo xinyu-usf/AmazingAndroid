@@ -24,8 +24,6 @@
   * Gradient:
     * Beautiful Gradient: http://uigradients.com/
     * Gradient Maker: http://www.perbang.dk/rgbgradient/
-* UI:
-  * Material UP: https://material.uplabs.com/ 
 * Collection:
   * Awesome Design: https://github.com/gztchan/awesome-design 
 
