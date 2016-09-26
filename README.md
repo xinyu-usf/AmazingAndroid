@@ -41,6 +41,7 @@
   * RxAndroid Basics: Part1: https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.eovtle5vx  Part2: https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.f4o64ldro
 * Performance 
   * Performance Tips: https://developer.android.com/training/articles/perf-tips.html
+  * Android Performance by Google: https://www.udacity.com/course/android-performance--ud825
   * Android memory and performance optimization:  http://www.vogella.com/tutorials/AndroidApplicationOptimization/article.html
 * A Deep Dive Into Location: http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
 
