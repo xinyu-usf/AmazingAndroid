@@ -43,6 +43,7 @@
   * Performance Tips: https://developer.android.com/training/articles/perf-tips.html
   * Android Performance by Google: https://www.udacity.com/course/android-performance--ud825
   * Android memory and performance optimization:  http://www.vogella.com/tutorials/AndroidApplicationOptimization/article.html
+  * Performance Tuning On Android: http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android
 * A Deep Dive Into Location: http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
 
 ## Code & Libraries & Projects:
