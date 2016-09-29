@@ -65,6 +65,7 @@
 * Convert audio files inside your Android app: https://github.com/adrielcafe/AndroidAudioConverter
 * Custom fonts in Android the easy way: https://github.com/chrisjenx/Calligraphy
 * A powerful Android chart view / graph view library: https://github.com/PhilJay/MPAndroidChart
+* TakePhoto: https://github.com/crazycodeboy/TakePhoto
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
