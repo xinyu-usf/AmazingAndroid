@@ -45,6 +45,7 @@
   * Android memory and performance optimization:  http://www.vogella.com/tutorials/AndroidApplicationOptimization/article.html
   * Performance Tuning On Android: http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android
 * A Deep Dive Into Location: http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
+* Data Binding: http://www.vogella.com/tutorials/AndroidDatabinding/article.html
 
 ## Code & Libraries & Projects:
 * Google's:
