@@ -53,6 +53,7 @@
   * Reactive Programming for Android: https://github.com/google/agera
   * CameraView: https://github.com/google/cameraview
 * List of Android UI/UX Libraries: https://github.com/wasabeef/awesome-android-ui
+* Awesome Android Library: https://github.com/wasabeef/awesome-android-libraries
 * Facebook React Native: http://facebook.github.io/react-native/
 * UtilCode: https://github.com/Blankj/AndroidUtilCode
 * Square's:
