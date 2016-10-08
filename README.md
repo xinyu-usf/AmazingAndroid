@@ -47,6 +47,7 @@
 * A Deep Dive Into Location: http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
 * Data Binding: http://www.vogella.com/tutorials/AndroidDatabinding/article.html
 * Best practices in Android development: https://github.com/futurice/android-best-practices
+* Android样式的开发:shape篇: http://keeganlee.me/post/android/20150830
 
 ## Code & Libraries & Projects:
 * Google's:
