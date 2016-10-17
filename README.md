@@ -47,6 +47,7 @@
 * A Deep Dive Into Location: http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
 * Data Binding: http://www.vogella.com/tutorials/AndroidDatabinding/article.html
 * Best practices in Android development: https://github.com/futurice/android-best-practices
+* Android样式的开发:shape篇: http://keeganlee.me/post/android/20150830
 
 ## Code & Libraries & Projects:
 * Google's:
@@ -69,6 +70,7 @@
 * Custom fonts in Android the easy way: https://github.com/chrisjenx/Calligraphy
 * A powerful Android chart view / graph view library: https://github.com/PhilJay/MPAndroidChart
 * TakePhoto: https://github.com/crazycodeboy/TakePhoto
+* BottomDialog - a bottom dialog layout implemented with DialogFragment, Supports pop-up animation, Support any layout: https://github.com/shaohui10086/BottomDialog
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
