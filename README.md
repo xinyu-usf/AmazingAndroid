@@ -9,6 +9,7 @@
 * Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
 * Useful Java links: https://github.com/Vedenin/useful-java-links
 * Google Style Guides: https://github.com/google/styleguide
+* Android Data - Some Android learning materials, hoping to help you learn Android development: https://github.com/Freelander/Android_Data
 
 ## Artwork Resources:
 * Material Design Icons: 
