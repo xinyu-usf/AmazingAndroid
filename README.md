@@ -75,6 +75,7 @@
 * BottomDialog - a bottom dialog layout implemented with DialogFragment, Supports pop-up animation, Support any layout: https://github.com/shaohui10086/BottomDialog
 * MultiType-FilePicker - This is a light Android file picker library: https://github.com/fishwjy/MultiType-FilePicker
 * ChipsLayoutManager - ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features: https://github.com/BelooS/ChipsLayoutManager
+* SuperTextView - a super textview for android: https://github.com/lygttpod/SuperTextView
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
