@@ -7,6 +7,7 @@
 * http://www.vogella.com/tutorials/android.html
 * http://www.mkyong.com/tutorials/android-tutorial/
 * Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
+* Android Code Style And Guidelines: https://medium.com/@amitshekhar/android-code-style-and-guidelines-d5f80453d5c7#.zn538ntj2
 * Useful Java links: https://github.com/Vedenin/useful-java-links
 * Google Style Guides: https://github.com/google/styleguide
 * Android Data - Some Android learning materials, hoping to help you learn Android development: https://github.com/Freelander/Android_Data
@@ -75,6 +76,7 @@
 * BottomDialog - a bottom dialog layout implemented with DialogFragment, Supports pop-up animation, Support any layout: https://github.com/shaohui10086/BottomDialog
 * MultiType-FilePicker - This is a light Android file picker library: https://github.com/fishwjy/MultiType-FilePicker
 * ChipsLayoutManager - ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features: https://github.com/BelooS/ChipsLayoutManager
+* SuperTextView - a super textview for android: https://github.com/lygttpod/SuperTextView
 
 ## Deploy:
 * The Complete Guide to Creating and Publishing an Android Library: https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.k3xz4i8sk
