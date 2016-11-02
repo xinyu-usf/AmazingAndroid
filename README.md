@@ -7,6 +7,7 @@
 * http://www.vogella.com/tutorials/android.html
 * http://www.mkyong.com/tutorials/android-tutorial/
 * Google Java Style Guide: http://google.github.io/styleguide/javaguide.html
+* Android Code Style And Guidelines: https://medium.com/@amitshekhar/android-code-style-and-guidelines-d5f80453d5c7#.zn538ntj2
 * Useful Java links: https://github.com/Vedenin/useful-java-links
 * Google Style Guides: https://github.com/google/styleguide
 * Android Data - Some Android learning materials, hoping to help you learn Android development: https://github.com/Freelander/Android_Data
